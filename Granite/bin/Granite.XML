@@ -1,0 +1,152 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Granite</name>
+    </assembly>
+    <members>
+        <member name="T:Granite.Autofac.WebApiAutofacModule">
+            <summary>
+            Autofac module.
+            </summary>
+        </member>
+        <member name="M:Granite.Autofac.WebApiAutofacModule.Load(Autofac.ContainerBuilder)">
+            <summary>
+            Loads the specified container builder.
+            </summary>
+            <param name="containerBuilder">The container builder.</param>
+        </member>
+        <member name="T:Granite.AutoMapper.UserProfile">
+            <summary>
+            Student profile.
+            </summary>
+        </member>
+        <member name="M:Granite.AutoMapper.UserProfile.Configure">
+            <summary>
+            Configures this instance.
+            </summary>
+        </member>
+        <member name="T:Granite.Controllers.UserController">
+            <summary>
+            user controller.
+            </summary>
+        </member>
+        <member name="M:Granite.Controllers.UserController.#ctor(Granite.Service.User.UserFacadeService)">
+            <summary>
+            Initializes a new instance of the <see cref="T:Granite.Controllers.UserController"/> class.
+            </summary>
+            <param name="userFacadeService">The user facade service.</param>
+        </member>
+        <member name="M:Granite.Controllers.UserController.Get(System.Int32)">
+            <summary>
+            Gets the specified identifier.
+            </summary>
+            <param name="id">The identifier.</param>
+        </member>
+        <member name="M:Granite.Controllers.UserController.GetAll(System.Web.OData.Query.ODataQueryOptions{Saas.Business.Entities.User})">
+            <summary>
+            Gets all.
+            </summary>
+        </member>
+        <member name="M:Granite.Controllers.UserController.Post(Granite.Models.User.UserCreateModel)">
+            <summary>
+            Posts the specified user create model.
+            </summary>
+            <param name="userCreateModel">The user create model.</param>
+        </member>
+        <member name="M:Granite.Controllers.UserController.Put(Granite.Models.User.UserUpdateModel,System.Int32)">
+            <summary>
+            Puts the specified user update model.
+            </summary>
+            <param name="userUpdateModel">The user update model.</param>
+            <param name="id">The identifier.</param>
+        </member>
+        <member name="M:Granite.Controllers.UserController.Delete(System.Int32)">
+            <summary>
+            Deletes the specified identifier.
+            </summary>
+            <param name="id">The identifier.</param>
+        </member>
+        <member name="T:Granite.Models.User.UserCreateModel">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="T:Granite.Models.User.UserViewModel">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="T:Granite.Resources.ErrorMessageResource">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:Granite.Resources.ErrorMessageResource.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:Granite.Resources.ErrorMessageResource.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+        <member name="P:Granite.Resources.ErrorMessageResource.EmailFormatInvalid">
+            <summary>
+              Looks up a localized string similar to The email format is invalid.Please enter a valid email, e.g. jolene@gmail.com..
+            </summary>
+        </member>
+        <member name="P:Granite.Resources.ErrorMessageResource.EmailIsRequired">
+            <summary>
+              Looks up a localized string similar to The email is required..
+            </summary>
+        </member>
+        <member name="P:Granite.Resources.ErrorMessageResource.EmailTooLong">
+            <summary>
+              Looks up a localized string similar to The email  has a maximum length of 100 characters..
+            </summary>
+        </member>
+        <member name="P:Granite.Resources.ErrorMessageResource.PasswordIsRequired">
+            <summary>
+              Looks up a localized string similar to The password is required..
+            </summary>
+        </member>
+        <member name="P:Granite.Resources.ErrorMessageResource.PasswordTooLong">
+            <summary>
+              Looks up a localized string similar to The password   has a maximum length of 50 characters..
+            </summary>
+        </member>
+        <member name="P:Granite.Resources.ErrorMessageResource.PasswordTooShort">
+            <summary>
+              Looks up a localized string similar to The password   has a minimum length of 6 characters..
+            </summary>
+        </member>
+        <member name="P:Granite.Resources.ErrorMessageResource.UserNameIsRequired">
+            <summary>
+              Looks up a localized string similar to The user name is required..
+            </summary>
+        </member>
+        <member name="P:Granite.Resources.ErrorMessageResource.UserNameTooLong">
+            <summary>
+              Looks up a localized string similar to The user name  has a maximum length of 100 characters..
+            </summary>
+        </member>
+        <member name="T:Granite.Startup">
+            <summary>
+            Startup
+            </summary>
+        </member>
+        <member name="M:Granite.Startup.#ctor">
+            <summary>
+            Initializes a new instance of the <see cref="T:Granite.Startup"/> class.
+            </summary>
+        </member>
+        <member name="M:Granite.Startup.Configuration(Owin.IAppBuilder)">
+            <summary>
+            Configuartions the specified application.
+            </summary>
+            <param name="app">The application.</param>
+        </member>
+    </members>
+</doc>

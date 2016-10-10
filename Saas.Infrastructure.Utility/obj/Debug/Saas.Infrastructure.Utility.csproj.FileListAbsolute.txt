@@ -1,0 +1,5 @@
+H:\LX\MyProject\Saas.Infrastructure.Utility\bin\Debug\Saas.Infrastructure.Utility.dll
+H:\LX\MyProject\Saas.Infrastructure.Utility\bin\Debug\Saas.Infrastructure.Utility.pdb
+H:\LX\MyProject\Saas.Infrastructure.Utility\obj\Debug\Saas.Infrastructure.Utility.dll
+H:\LX\MyProject\Saas.Infrastructure.Utility\obj\Debug\Saas.Infrastructure.Utility.pdb
+H:\LX\MyProject\Saas.Infrastructure.Utility\obj\Debug\Saas.Infrastructure.Utility.csprojResolveAssemblyReference.cache

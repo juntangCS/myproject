@@ -1,0 +1,16 @@
+H:\LX\MyProject\Granite.Service\bin\Debug\Granite.Service.dll.config
+H:\LX\MyProject\Granite.Service\bin\Debug\Granite.Service.dll
+H:\LX\MyProject\Granite.Service\bin\Debug\Granite.Service.pdb
+H:\LX\MyProject\Granite.Service\bin\Debug\Newtonsoft.Json.dll
+H:\LX\MyProject\Granite.Service\bin\Debug\Saas.Business.dll
+H:\LX\MyProject\Granite.Service\bin\Debug\MySql.Data.Entity.EF6.dll
+H:\LX\MyProject\Granite.Service\bin\Debug\EntityFramework.dll
+H:\LX\MyProject\Granite.Service\bin\Debug\Autofac.dll
+H:\LX\MyProject\Granite.Service\bin\Debug\MySql.Data.dll
+H:\LX\MyProject\Granite.Service\bin\Debug\Saas.Business.pdb
+H:\LX\MyProject\Granite.Service\bin\Debug\Newtonsoft.Json.xml
+H:\LX\MyProject\Granite.Service\bin\Debug\EntityFramework.xml
+H:\LX\MyProject\Granite.Service\bin\Debug\Autofac.xml
+H:\LX\MyProject\Granite.Service\obj\Debug\Granite.Service.csprojResolveAssemblyReference.cache
+H:\LX\MyProject\Granite.Service\obj\Debug\Granite.Service.dll
+H:\LX\MyProject\Granite.Service\obj\Debug\Granite.Service.pdb
