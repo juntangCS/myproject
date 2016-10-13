@@ -167,11 +167,12 @@
   <ItemGroup>
     <Compile Include="Autofac\WebApiAutofacModule.cs" />
     <Compile Include="AutoMapper\UserProfile.cs" />
+    <Compile Include="Controllers\PhotoController.cs" />
     <Compile Include="Controllers\UserController.cs" />
-    <Compile Include="Models\User\UserCreateModel.cs" />
-    <Compile Include="Models\User\UserQueryModel.cs" />
-    <Compile Include="Models\User\UserUpdateModel.cs" />
-    <Compile Include="Models\User\UserViewModel.cs" />
+    <Compile Include="Models\Users\UserCreateModel.cs" />
+    <Compile Include="Models\Users\UserQueryModel.cs" />
+    <Compile Include="Models\Users\UserUpdateModel.cs" />
+    <Compile Include="Models\Users\UserViewModel.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Resources\ErrorMessageResource.Designer.cs">
       <AutoGen>True</AutoGen>

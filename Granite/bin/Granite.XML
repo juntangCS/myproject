@@ -30,7 +30,7 @@
             user controller.
             </summary>
         </member>
-        <member name="M:Granite.Controllers.UserController.#ctor(Granite.Service.User.UserFacadeService)">
+        <member name="M:Granite.Controllers.UserController.#ctor(Granite.Service.Users.UserFacadeService)">
             <summary>
             Initializes a new instance of the <see cref="T:Granite.Controllers.UserController"/> class.
             </summary>
@@ -47,7 +47,7 @@
             Gets all.
             </summary>
         </member>
-        <member name="M:Granite.Controllers.UserController.Post(Granite.Models.User.UserCreateModel)">
+        <member name="M:Granite.Controllers.UserController.Post(Granite.Models.Users.UserCreateModel)">
             <summary>
             Posts the specified user create model.
             </summary>
@@ -66,7 +66,7 @@
             </summary>
             <param name="id">The identifier.</param>
         </member>
-        <member name="T:Granite.Models.User.UserCreateModel">
+        <member name="T:Granite.Models.Users.UserCreateModel">
             <summary>
             
             </summary>

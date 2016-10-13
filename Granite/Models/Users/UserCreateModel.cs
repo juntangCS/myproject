@@ -1,7 +1,7 @@
 ﻿using System.ComponentModel.DataAnnotations;
 using Granite.Resources;
 
-namespace Granite.Models.User
+namespace Granite.Models.Users
 {
     /// <summary>
     /// 

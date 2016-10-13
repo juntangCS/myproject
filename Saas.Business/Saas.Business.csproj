@@ -85,7 +85,8 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Respositories\PhotoSqlDbContext.cs" />
     <Compile Include="Respositories\UserRepostory.cs" />
-    <Compile Include="Services\UserService.cs" />
+    <Compile Include="Services\Bases\ESEPasswordService.cs" />
+    <Compile Include="Services\Users\UserService.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

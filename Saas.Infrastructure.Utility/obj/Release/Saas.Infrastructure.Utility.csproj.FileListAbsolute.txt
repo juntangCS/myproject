@@ -1,0 +1,10 @@
+H:\LX\MyProject\Saas.Infrastructure.Utility\bin\Release\Saas.Infrastructure.Utility.dll
+H:\LX\MyProject\Saas.Infrastructure.Utility\bin\Release\Saas.Infrastructure.Utility.pdb
+H:\LX\MyProject\Saas.Infrastructure.Utility\obj\Release\Saas.Infrastructure.Utility.csprojResolveAssemblyReference.cache
+H:\LX\MyProject\Saas.Infrastructure.Utility\obj\Release\Saas.Infrastructure.Utility.dll
+H:\LX\MyProject\Saas.Infrastructure.Utility\obj\Release\Saas.Infrastructure.Utility.pdb
+H:\myproject\Saas.Infrastructure.Utility\bin\Release\Saas.Infrastructure.Utility.dll
+H:\myproject\Saas.Infrastructure.Utility\bin\Release\Saas.Infrastructure.Utility.pdb
+H:\myproject\Saas.Infrastructure.Utility\obj\Release\Saas.Infrastructure.Utility.csprojResolveAssemblyReference.cache
+H:\myproject\Saas.Infrastructure.Utility\obj\Release\Saas.Infrastructure.Utility.dll
+H:\myproject\Saas.Infrastructure.Utility\obj\Release\Saas.Infrastructure.Utility.pdb

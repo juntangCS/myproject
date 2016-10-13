@@ -1,6 +1,6 @@
 ﻿using AutoMapper;
-using Granite.Models;
 using Granite.Models.User;
+using Granite.Models.Users;
 using Saas.Business.Entities;
 
 namespace Granite.AutoMapper

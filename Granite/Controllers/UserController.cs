@@ -7,7 +7,8 @@ using System.Web.OData.Extensions;
 using System.Web.OData.Query;
 using AutoMapper;
 using Granite.Models.User;
-using Granite.Service.User;
+using Granite.Models.Users;
+using Granite.Service.Users;
 using Saas.Business.Entities;
 using Saas.Infrastructure.Utility.Searchs;
 
